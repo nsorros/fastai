@@ -1,2 +1,4 @@
-# Venv
+# Venv, pyenv, direnv
 venv
+.python-version
+.envrc
